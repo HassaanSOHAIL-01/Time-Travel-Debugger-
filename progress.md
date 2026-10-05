@@ -8,3 +8,9 @@ Day 2 (Oct 3)
 
 Made custom data structures. Stack or Timeline bnaye or unko check kiya ky sai chal rhy ya nhii.
 
+
+
+Day 3 (Oct 5)
+
+Stage 01 start kiya. 4 functions thy usky wo code kiye.
+
