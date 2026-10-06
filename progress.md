@@ -14,3 +14,9 @@ Day 3 (Oct 5)
 
 Stage 01 start kiya. 4 functions thy usky wo code kiye.
 
+
+
+Day 4 (Oct 6)
+
+Started stage 02 today. offset ka concept upper sy ja rha tha. pehlay usko or byte position kaisy track hoti hai ko smjha. Seekhny ky baad I did this stage.
+
