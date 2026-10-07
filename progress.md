@@ -20,3 +20,9 @@ Day 4 (Oct 6)
 
 Started stage 02 today. offset ka concept upper sy ja rha tha. pehlay usko or byte position kaisy track hoti hai ko smjha. Seekhny ky baad I did this stage.
 
+
+
+Day 5 (Oct 7)
+
+Stage 02 ka kuch part reh gya tha. Usko pura kiya.
+
