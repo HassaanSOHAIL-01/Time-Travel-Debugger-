@@ -32,3 +32,17 @@ Day 6 (Oct 9)
 
 Stage 03 start kiya. Operands aur variables handle karte waqt code crash ho raha tha kyun ke tokens me direct numbers aur variable names dono aa rahe thay. Iska hall nhi nzr ahra tha to meenay chor diya kaam krna.
 
+
+
+Day 7 (Oct 10)
+
+Kaal wala masla haal krty krty meenay 4 functions bnaye:
+
+isInteger: Check karne ke liye ke token koi number hai ya variable ka naam.
+
+getVariableValue: Active frame me se variable ki current value dhoondne ke liye.
+
+setVariableValue: Variable ki value update karne ya naya local variable add karne ke liye.
+
+resolveOperand: Direct number ya variable name me se integer value safely return karne ke liye taake stoi par code crash na kare.
+
