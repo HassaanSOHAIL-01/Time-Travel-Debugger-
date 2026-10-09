@@ -26,3 +26,9 @@ Day 5 (Oct 7)
 
 Stage 02 ka kuch part reh gya tha. Usko pura kiya.
 
+
+
+Day 6 (Oct 9)
+
+Stage 03 start kiya. Operands aur variables handle karte waqt code crash ho raha tha kyun ke tokens me direct numbers aur variable names dono aa rahe thay. Iska hall nhi nzr ahra tha to meenay chor diya kaam krna.
+
