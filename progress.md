@@ -46,3 +46,9 @@ setVariableValue: Variable ki value update karne ya naya local variable add karn
 
 resolveOperand: Direct number ya variable name me se integer value safely return karne ke liye taake stoi par code crash na kare.
 
+
+
+Day 8 (Oct 11)
+
+Completed the execution flow. Stage 04 start kiya.
+
