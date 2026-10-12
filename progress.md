@@ -52,3 +52,9 @@ Day 8 (Oct 11)
 
 Completed the execution flow. Stage 04 start kiya.
 
+
+
+Day 9 (Oct 12)
+
+Stage 04 complete kiya. Ik .bin file bnai or apna code test kiya. Custom test cases run krwaye taake edge cases verify ho saken.
+
